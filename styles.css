@@ -1,0 +1,14 @@
+.favicon {
+  width:16px;
+  height:16px;
+}
+
+.remove {
+  width:10px;
+  height:10px;
+  padding:3px;
+}
+
+.pressed {
+  background-color:#dfdfdf;
+}
